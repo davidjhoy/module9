@@ -22,5 +22,71 @@
    <price>14.95</price>
    <release_year>1978</release_year>
   </DVD>
+  <DVD id="3">
+   <title>Elmo 2</title>
+   <performers>
+    <performer>The third backstreet boy</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Elmo</performer>
+   </performers>
+   <discs>2</discs>
+   <price>12.95</price>
+   <release_year>1978</release_year>
+  </DVD>
+  <DVD id="4">
+   <title>Constellation Wars</title>
+   <performers>
+    <performer>Harrison Toyota</performer>
+    <performer>Harrison Harrison</performer>
+    <performer>Carrie  Hunter</performer>
+   </performers>
+   <discs>2</discs>
+   <price>19.95</price>
+   <release_year>2018</release_year>
+  </DVD>
+  <DVD id="5">
+   <title>Shrek</title>
+   <performers>
+    <performer>Eddie Murphy</performer>
+    <performer>Mike Myers</performer>
+    <performer>Carrie  Climber</performer>
+   </performers>
+   <discs>2</discs>
+   <price>50.00</price>
+   <release_year>2014</release_year>
+  </DVD>
+  <DVD id="6">
+   <title>Shrek</title>
+   <performers>
+    <performer>Mark  Hamill</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Carrie  Fisher</performer>
+   </performers>
+   <discs>2</discs>
+   <price>14.95</price>
+   <release_year>2022</release_year>
+  </DVD>
+  <DVD id="7">
+   <title>Star Wars Episode V - The  Empire Strikes Back</title>
+   <performers>
+    <performer>Mark  Hamill</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Carrie  Fisher</performer>
+   </performers>
+   <discs>2</discs>
+   <price>14.95</price>
+   <release_year>2022</release_year>
+  </DVD>
+  <DVD id="8">
+   <title>Elmo 2</title>
+   <performers>
+    <performer>Mark  Hamill</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Carrie  Fisher</performer>
+   </performers>
+   <discs>2</discs>
+   <price>14.95</price>
+   <release_year>2023</release_year>
+  </DVD>
 </DVDS>
 
