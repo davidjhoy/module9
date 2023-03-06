@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DVDS SYSTEM "dvd.dtd">
+<DVDS>
+  <DVD id="1">
+   <title>Witness</title>
+   <performers> 
+    <performer>Harrison  Ford</performer>
+    <performer>Kelly  McGillis</performer>
+   </performers>
+   <discs>1</discs>
+   <price>7.99</price>
+   <release_year>1992 </release_year>
+  </DVD>
+  <DVD id="2">
+   <title>Star Wars Episode V - The  Empire Strikes Back</title>
+   <performers>
+    <performer>Mark  Hamill</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Carrie  Fisher</performer>
+   </performers>
+   <discs>2</discs>
+   <price>14.95</price>
+   <release_year>1978</release_year>
+  </DVD>
+</DVDS>
+
